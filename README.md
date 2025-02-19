@@ -1,8 +1,5 @@
-# React + Vite
+# Visual Timer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+https://visualtimerf.onrender.com/
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a visual timer app that allows a user to enter a timer length and start a timer.  As the time counts down more and more of the random image is exposed until the timer finished and the photo is completely visible.  the user has the option to have a sound played at the end of the timer or not. 
